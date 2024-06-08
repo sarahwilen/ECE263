@@ -2,6 +2,8 @@
 LLM Evaluation: Using LLMs to Democratize Legal Assistance
 
 ## Files included
+### Report-Democratizing Legal Assist using LLMs.pdf
+Contains: Final project report
 ### Q&A Dataset.xlsx
 Contains tabs:
 <ul>
